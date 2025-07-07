@@ -50,6 +50,8 @@ A minimal AI Agent that provides umbrella recommendations based on weather data 
 
 2. **Install dependencies**
    ```bash
+   python -m venv myenv
+   source myenv/bin/activate
    pip install -r requirements.txt
    ```
 
